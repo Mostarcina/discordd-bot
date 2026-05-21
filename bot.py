@@ -14,4 +14,4 @@ async def on_ready():
 async def test(ctx):
     await ctx.send("Hi tu sam")
 
-bot.run("TU_STAVI_TOKEN")
+bot.run("MTUwNzEwODM5MjQwODQ0OTAzNA.GEAUDV.KdHvBcQ1vAx__-BRkuq_i7mJi-9PHLTFJ1DiRI")
